@@ -1,0 +1,98 @@
+body{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    
+}
+.one{
+    background-color: rgb(25, 0, 255);
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    color: black;
+    font-size: 30px;
+    float: right;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.one:hover{
+    background-color: aqua;
+    color: red;
+}
+.two{
+    background-color: rgba(128, 128, 128, 0.856);
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    color: black;
+    font-size: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.two:hover{
+    background-color: aqua;
+    color: red;
+}
+.three{
+    background-color: rgb(41, 41, 124);
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    color: black;
+    font-size: 30px;
+    margin: 0 auto 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.three:hover{
+    background-color: aqua;
+    color: red;
+}
+
+.for{
+    background-color: burlywood;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    float: right;
+    color: black;
+    font-size: 30px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.for:hover{
+    background-color: aqua;
+    color: red;
+}
+
+.five{
+    background-color:  rgb(115, 115, 206);
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    color: black;
+    font-size: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.five:hover{
+    background-color: aqua;
+    color: red;
+}
+
+.hobbies{
+    font-size: 50px;
+}
